@@ -9,7 +9,7 @@ import org.junit.Test;
 //import static org.junit.jupiter.api.Assertions.*;
 //import java.util.Arrays;
 
-public class AdapterCircleTest2 {
+public class CalculatorTest {
 
     @Test
     public void testCircleDraw() {

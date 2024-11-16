@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * 矩形类，表示一个矩形。
  *
- * @author 作者名
+ * @author 朱馨
  * @version 1.0
  * @date 2024-11-14
  */

@@ -4,7 +4,7 @@ package com.test1;
 /**
  * 圆形适配器类，将圆形适配为多边形接口。
  *
- * @author 作者名
+ * @author 朱馨
  * @version 1.0
  * @date 2024-11-14
  */

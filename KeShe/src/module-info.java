@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module KeShe {
-	requires junit;
-}

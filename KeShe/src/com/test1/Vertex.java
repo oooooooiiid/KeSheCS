@@ -3,7 +3,7 @@ package com.test1;
 /**
  * 顶点类，表示二维空间中的一个点。
  *
- * @author 作者名
+ * @author 朱馨
  * @version 1.0
  * @date 2024-11-14
  */
