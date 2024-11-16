@@ -22,6 +22,9 @@ import java.util.Set;
 import org.junit.Test;
 //import static org.junit.jupiter.api.Assertions.*;
 
+/**
+* ClassStructureTest类包含了多个测试方法，用于验证测试类的继承关系。
+*/
 public class ClassStructureTest {
     /**
      * 测试类的继承关系。
